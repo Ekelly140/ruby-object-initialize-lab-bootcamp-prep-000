@@ -1,4 +1,4 @@
 class Dog 
-  def breed(type == mutt)
+  def initialize(breed == mutt)
     
   end 
